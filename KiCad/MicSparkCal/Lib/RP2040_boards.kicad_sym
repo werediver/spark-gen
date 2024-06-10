@@ -1554,7 +1554,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 17.78 21.59 180)
 				(length 2.54)
 				(name "VSYS"
